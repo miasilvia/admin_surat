@@ -1,0 +1,11 @@
+.table
+ {
+    font-family: sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+}
+ 
+.th, td {
+    border: 1px solid #0000;
+    padding: 8px 20px;
+}
